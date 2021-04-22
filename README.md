@@ -4,6 +4,10 @@
 #### 介绍
 基于springboot实现的找房源系统，模仿链家租房界面与功能，用来学习springboot与elasticsearch
 
+#### 效果图
+![1](https://user-images.githubusercontent.com/52950394/115668446-b4864200-a379-11eb-9517-55f63ccf01dd.png)
+![2](https://user-images.githubusercontent.com/52950394/115668457-b6e89c00-a379-11eb-828b-7f0530840531.png)
+
 #### 软件架构
 
 - 搜索引擎：Elasticsearch
@@ -34,3 +38,7 @@
 4.  用户与管理员登录失败跳转未修复
 5.  预约看房不能立刻刷新数据(前端)
 6.  添加房源页三级联动查不到数据地铁线路会保留上一次的数据(前端)
+
+
+
+
